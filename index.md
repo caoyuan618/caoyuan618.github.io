@@ -42,7 +42,7 @@
 
 ## 科研项目
 [2023-2025] **国家自然科学基金青年基金**, **主持人** <span style="color:red;">**New!**</span>    
-[2021-2023] **山东省自然科学基金青年基金**, **主持人**       
+[2021-2023] **山东省自然科学基金青年基金**, **主持人** <span style="color:red;">**New!**</span>    
 [2021-2021] 中国博士后科学基金第69批面上资助, **主持人**  
 [2021-2022] ISN第二十二批开放基金， **主持人**  
 [2021-2022] 中央高校基本科研专项基金, **主持人**  
@@ -50,7 +50,7 @@
 
 
 ## 发表论文（<a href="#">谷歌学术</a>） 
-\# 指导学生，\* 通讯作者
+\# 指导学生，\* 通讯作者   
 1.* Scalable Distributed Hashing for Approximate Nearest Neighbor Search， IEEE Transactions on Image Processing， 2022， SCI， IF: 10.856, TOP期刊, CCF-A，一作  <span style="color:red;">**New!**</span>   
 2.* Fast kNN Search in Weighted Hamming Space with Multiple Tables， IEEE Transactions on Image Processing， 2021， SCI， IF: 10.856, TOP期刊, CCF-A，共同一作兼通讯   
 3.* Learning to Hash with Dimension Analysis based Quantizer for Image Retrieval， IEEE Transactions on Multimedia， 2020， SCI， IF: 6.513, TOP期刊, CCF-B，一作   
