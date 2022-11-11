@@ -1,5 +1,5 @@
 <span id = "Top"> </span>
-# 曹媛 (<a href="/index-en.html">Yanwei Yu</a>)  
+# 曹媛 (<a href="/index-en.html">Yuan Cao</a>)  
 
 <p style="width:970px;">
     <img src="/caoyuan.jpg" align="right" width="180" hspace="5" vspace="5">
@@ -7,7 +7,7 @@
 国内外重要学术组织任职：综合业务网理论及关键技术国家重点实验室客座研究人员
 其他情况简介：博士毕业于大连理工大学计算机应用技术专业，导师为李克秋教授。曾于2017年9月-2018年9月赴美国罗格斯大学(Rutgers University)进行为期一年的博士联合培养，导师为Prof. Ping Li。2019年10月加入中国海洋大学。 主要研究方向为大规模数据检索、深度学习、计算机视觉以及区块链应用技术。以第一作者或通讯作者在IEEE TIP、IEEE TMM、IEEE TCSVT、IEEE TCI、IJCAI等国际高水平期刊和会议上发表论文10余篇。担任CVPR、ECCV、IJCAI、AAAI等审稿人。主持国家自然科学基金青年基金、山东省自然科学基金青年基金、中国博士后科学基金面上资助、ISN开放基金等项目，参与多项国家重点研发计划项目、国家自然科学基金面上项目。
 </p>
-中国海洋大学主页：<a href="[http://it.ouc.edu.cn/main.htm](https://it.ouc.edu.cn/cs/main.htm)">计算机科学与技术学院</a>  <a href="http://it.ouc.edu.cn/yyw/main.htm">于彦伟</a>
+中国海洋大学主页：<a href="[http://it.ouc.edu.cn/main.htm](https://it.ouc.edu.cn/cs/main.htm)">计算机科学与技术学院</a>  <a href="https://it.ouc.edu.cn/cy2/main.htm">曹媛</a>
 
 ———————————————————————————————————————————————
 
@@ -15,7 +15,7 @@
 **工作单位：** <a href="http://www.ouc.edu.cn/">中国海洋大学</a> <a href="http://it.ouc.edu.cn/main.htm">信息科学与工程学部</a> <a href="https://it.ouc.edu.cn/cs/main.htm">计算机科学与技术学院</a>   
 **现任职称：** 讲师   
 **电子邮箱：** cy8661@ouc.edu.cn  
-**办公地址：** 中国海洋大学西海岸校区 计算机楼C407
+**办公地址：** 中国海洋大学西海岸校区 计算机楼C407  
 **教授课程：** 离散数学二(本科生)，软件工程(本科生)
 
 ## 新闻
@@ -32,8 +32,8 @@
 
 
 ## 教育背景
-2016/11-2018/09，大连理工大学, 计算机应用技术专业，博士，导师为李克秋教授
-2017/09-2018/09，美国罗格斯大学(Rutgers University)进行为期一年的博士联合培养，导师为Prof. Ping Li
+2016/11-2018/09，大连理工大学, 计算机应用技术专业，博士，导师为李克秋教授  
+2017/09-2018/09，美国罗格斯大学(Rutgers University)进行为期一年的博士联合培养，导师为Prof. Ping Li  
 
 
 ## 奖励荣誉
@@ -43,13 +43,13 @@
 ## 科研项目
 [2023-2025] **国家自然科学基金青年基金**, **主持人** <span style="color:red;">**New!**</span>    
 [2021-2023] **山东省自然科学基金青年基金**, **主持人**       
-[2021-2021] 中国博士后科学基金第69批面上资助, **主持人** 
+[2021-2021] 中国博士后科学基金第69批面上资助, **主持人**  
 [2021-2022] ISN第二十二批开放基金， **主持人**  
 [2021-2022] 中央高校基本科研专项基金, **主持人**  
 [2019-2021] 青岛市博士后应用研究项目，**主持人** 
 
 
-## 发表论文（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
+## 发表论文（<a href="#">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
 * Shaojie Dai#, Jinshuai Wang#, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference. ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2022 (**CCF B**, Online) <a href="https://dl.acm.org/doi/pdf/10.1145/3564754" target="_blank">[PDF]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span>
 * Kai Wang#, <u>Yanwei Yu*</u>, Chao Huang, Zhongying Zhao, Junyu Dong. Heterogeneous Graph Neural Network for Attribute Completion. Knowledge-Based Systems. 2022. (**中科院一区Top期刊**) <a href="/papers/kai2022heterogeneousKBS.pdf" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>   <span style="color:red;">**New!**</span>
