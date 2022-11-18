@@ -19,7 +19,7 @@
 ## 新闻
 <!--+ <span style="color:red;">2022/05/19 祝贾文哲为第一作者的论文“Fast Online Hashing with Multi-Label Projection”被CCF A类会议AAAI 2023接收！</span>-->
 + <span style="color:red;">2022/09/08 国家自然科学基金青年基金“面向大规模跨模态检索的深度自监督哈希学习算法研究”（批准号：62202438，资助金额：30万）成功获批！</span>
-+ <span style="color:red;">2022/08/01 获得2022年获山东省第九届高校青年教师教学比赛优秀奖！</span>    
++ <span style="color:red;">2022/08/01 获得2022年山东省第九届高校青年教师教学比赛优秀奖！</span>    
 
 ## 工作经历
 2019/10-至今，中国海洋大学，计算机科学与技术学院，讲师  
