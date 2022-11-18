@@ -17,7 +17,7 @@
 **教授课程：** 离散数学Ⅱ，软件工程
 
 ## 新闻
-<!--+ <span style="color:red;">2022/05/19 祝贺于澎洋为第一作者的论文“Multiplex Heterogeneous Graph Convolutional Network”被CCF A类会议KDD 2022接收！</span>-->
+<!--+ <span style="color:red;">2022/05/19 祝贾文哲为第一作者的论文“Fast Online Hashing with Multi-Label Projection”被CCF A类会议AAAI 2023接收！</span>-->
 + <span style="color:red;">2022/09/08 国家自然科学基金青年基金“面向大规模跨模态检索的深度自监督哈希学习算法研究”（批准号：62202438，资助金额：30万）成功获批！</span>
 
 ## 工作经历
