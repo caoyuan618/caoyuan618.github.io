@@ -43,14 +43,14 @@
 ## 发表论文（<a href="https://dblp.uni-trier.de/pid/52/4472-5.html">DBLP</a>） 
 \* 通讯作者，\# 共同一作   
 <!--+ Jie Gui, Xiaofeng Cong*,  **Yuan Cao*** , Wenqi Ren, Jun Zhang, Jing Zhang, Jiuxin Cao, Dacheng Tao. “A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning”, 2023, ACM Computing Surveys (**SCI一区TOP期刊**, IF: 14.324). <span style="color:red;">**New!**</span>-->           
-+ **<u>Yuan Cao</u>**, Junwei Liu, Heng Qi*, Jie Gui*, Keqiu Li, Jieping Ye, Chao Liu. “Scalable Distributed Hashing for Approximate Nearest Neighbor Search”, 2022, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF A**).      
++ **Yuan Cao**, Junwei Liu, Heng Qi*, Jie Gui*, Keqiu Li, Jieping Ye, Chao Liu. “Scalable Distributed Hashing for Approximate Nearest Neighbor Search”, 2022, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF A**).      
 + Jie Gui#, **Yuan Cao**#*, Heng Qi*, Keqiu Li, Jieping Ye, Chao Liu, Xiaowei Xu. “Fast kNN Search in Weighted Hamming Space with Multiple Tables.”, 2021, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF A**).      
 + **Yuan Cao**, Heng Qi*, Jie Gui*, Keqiu Li, Yuan Yan Tang, James Tin-Yau Kwok. “Learning to Hash with Dimension Analysis based Quantizer for Image Retrieval”, 2020, IEEE Transactions on Multimedia (**SCI一区TOP期刊**, IF: 6.513, **CCF B**).      
 + **Yuan Cao**, Sheng Chen, Jie Gui*, Heng Qi*, Zhiyang Li, Chao Liu. “Hash Learning with Variable Quantization for Large-scale Retrieval.”, 2022, IEEE Transactions on Circuits and Systems for Video Technology (**SCI一区TOP期刊**，IF: 4.685, **CCF B**).      
 + Jie Gui, Xiaofeng Cong, **Yuan Cao***, Wenqi Ren, Jun Zhang, Jing Zhang, Dacheng Tao. “A Comprehensive Survey on Image Dehazing Based on Deep Learning.”, 2021, International Joint Conferences on Artificial Intelligence Organization (**IJCAI**, **CCF A**).      
 + **Yuan Cao**, Heng Qi*, Jien Kato, Keqiu Li. “Hash Ranking with Weighted Asymmetric Distance.”, 2017, IEEE Transactions on Computational Imaging (SCI二区, IF: 3.49).
 + **Yuan Cao**, Heng Qi*, Jie Gui, Shuai Li, Keqiu Li. “General Distributed Hash Learning on Image Descriptors for k-Nearest Neighbor Search.”, 2019, IEEE Signal Processing Letters (SCI二区, IF: 3.109, CCF C).      
-+ **Yuan Cao**, Heng Qi*, Wenrui Zhou, Jien Kato, Keqiu Li, Xiulong Liu, Jie Gui. “Binary Hashing for Approximate Nearest Neighbor Search on Big Data: A Survey.”, 2018, IEEE Access (SCI三区, IF: 3.367, cited by: 80).      
++ **Yuan Cao**, Heng Qi*, Wenrui Zhou, Jien Kato, Keqiu Li, Xiulong Liu, Jie Gui. “Binary Hashing for Approximate Nearest Neighbor Search on Big Data: A Survey.”, 2018, IEEE Access (SCI三区, IF: 3.367, **cited by: 80**).      
 + **Yuan Cao**, Heng Qi*, Keqiu Li, Milos Stojmenovic. “Multiple Query-independent Values based Asymmetric Ranking for Approximate Nearest Neighbor Search.”, 2016, IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA, CCF C).      
 + Junwei Liu, **Yuan Cao***, Sheng Chen, Chengzhi Qian. “FIDH : A Deep Hash Learning Architecture for Mobile Cloud Retrieval.”, 2022, International Conference on Algorithms, Systems, and Applications of Wireless Networks (WASA, CCF C).      
 + Na Chen, **Yuan Cao***, Chao Liu., 2021, “Deep Cross-modal Supervised Hashing based on Joint Semantic Matrix”, 2021, International Conference on Network and System Security (NSS).      
@@ -59,10 +59,8 @@
 + Heng Qi*, **Yuan Cao**, Keqiu Li, Yingwei Jin. “Representative Shape based Indexing Framework for Context-Sensitive Shape Retrieval.”, 2015, Multiple-Valued Logic and Soft Computing (SCI四区, IF: 0.613).      
 + Wenrui Zhou, **Yuan Cao**, Heng Qi*, Junxiao Wang. “An Effective Network Intrusion Detection Framework Based on Learning to Hash.”, 2019, IEEE International Conference on Smart Internet of Things (SmartIoT).      
 
-1.* Scalable Distributed Hashing for Approximate Nearest Neighbor Search， IEEE Transactions on Image Processing， 2022， SCI， IF: 10.856, TOP期刊, CCF-A，一作        
-
 [↑Top](#Top)
 
 <a href="https://clustrmaps.com/site/1bf9f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff" /></a>
 
-**更新时间：2022/11/11**
+**更新时间：2022/11**
