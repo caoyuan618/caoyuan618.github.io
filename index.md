@@ -43,7 +43,7 @@
 
 
 ## 发表论文（<a href="#">谷歌学术</a>） 
-\# 指导学生，\* 通讯作者   
+\* 通讯作者，\# 共同一作   
 
 1.* Jie Gui, Xiaofeng Cong*, Yuan Cao*, Wenqi Ren, Jun Zhang, Jing Zhang, Jiuxin Cao, Dacheng Tao. “A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning”, 2023, ACM Computing Surveys (SCI一区TOP期刊, IF: 14.324).      
 2.* Wenzhe Jia, Yuan Cao*, Junwei Liu, Jie Gui. “Fast Online Hashing with Multi-Label Projection”, 2023, AAAI Conference on Artificial Intelligence (AAAI2023, CCF A类).      
