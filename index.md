@@ -6,7 +6,7 @@
     中国海洋大学信息科学与工程学部<a href="http://it.ouc.edu.cn/">计算机科学与技术学院讲师</a>，硕士生导师。主要研究方向：大规模数据检索、深度学习、计算机视觉、区块链应用技术。
     个人简介：博士毕业于大连理工大学计算机应用技术专业，导师为李克秋教授。曾于2017年9月-2018年9月赴美国罗格斯大学(Rutgers University)进行为期一年的博士联合培养，导师为Prof. Ping Li。2019年10月加入中国海洋大学。 主要研究方向为大规模数据检索、深度学习、计算机视觉以及区块链应用技术。以第一作者或通讯作者在IEEE TIP、IEEE TMM、IEEE TCSVT、IEEE TCI、IJCAI等国际高水平期刊和会议上发表论文10余篇。担任CVPR、ECCV、IJCAI、AAAI等审稿人。主持国家自然科学基金青年基金、山东省自然科学基金青年基金、中国博士后科学基金面上资助、ISN开放基金等项目，参与多项国家重点研发计划项目、国家自然科学基金面上项目。
 </p>
-中国海洋大学主页：<a href="[http://it.ouc.edu.cn/main.htm](https://it.ouc.edu.cn/cs/main.htm)">计算机科学与技术学院</a>  <a href="https://it.ouc.edu.cn/cy2/main.htm">曹媛</a>
+<a href="[http://it.ouc.edu.cn/main.htm]">中国海洋大学主页</a> <a href="https://it.ouc.edu.cn/cs/main.htm">计算机科学与技术学院</a> <a href="https://it.ouc.edu.cn/cy2/main.htm">曹媛</a>
 
 ———————————————————————————————————————————————
 
