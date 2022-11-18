@@ -17,7 +17,7 @@
 **教授课程：** 离散数学Ⅱ，软件工程
 
 ## 新闻
-+ <span style="color:red;">2022/05/19 祝贺于澎洋为第一作者的论文“Multiplex Heterogeneous Graph Convolutional Network”被CCF A类会议KDD 2022接收！</span>
+<!--+ <span style="color:red;">2022/05/19 祝贺于澎洋为第一作者的论文“Multiplex Heterogeneous Graph Convolutional Network”被CCF A类会议KDD 2022接收！</span>-->
 + <span style="color:red;">2022/09/08 国家自然科学基金青年基金“面向大规模跨模态检索的深度自监督哈希学习算法研究”（批准号：62202438，资助金额：30万）成功获批！</span>
 
 ## 工作经历
@@ -30,7 +30,7 @@
 2009/09-2013/07，大连海事大学，计算机科学与技术专业，学士  
 
 ## 奖励荣誉
-2022年获山东省第九届高校青年教师教学比赛优秀奖<span style="color:red;">**New!**</span>   
+2022年获山东省第九届高校青年教师教学比赛优秀奖<span style="color:red;"> **New!**</span>   
 
 ## 科研项目
 [2023-2025] **国家自然科学基金青年基金**“面向大规模跨模态检索的深度自监督哈希学习算法研究”，62202438，30万元，**主持者**。 <span style="color:red;">**New!**</span>   
@@ -44,15 +44,16 @@
 [2014-2016] 国家自然科学基金青年科学基金“海量可视媒体信息管理的索引技术研究”，61300189，参与者。    
 
 ## 授权专利
-+ 国家发明专利：基于自监督对抗哈希算法的大规模图像检索方法，曹媛，刘峻玮，桂杰，许晓伟。202110531130.8，2022.7.19。   
-+ 国家发明专利：基于维度分析量化器哈希学习的数据检索方法，曹媛，陈娜，桂杰，许晓伟。202011107446.6，2022.4.26。  
-+ 国家发明专利：基于深度特征一致哈希算法的图像检索方法，曹媛，刘峻玮，桂杰，陶小旖旎。202110883325.9，2021.11.2。   
-+ 国家发明专利：基于结合生成对抗网络的哈希算法的大规模数据检索方法，曹媛，吴翔宇，桂杰。202110756991.6，2021.9.24。
-+ 国家发明专利：基于联合语义矩阵的深度跨模态哈希的图像检索方法，曹媛，陈娜，桂杰。202110730743.4，2021.9.14。   
++ 国家发明专利：基于自监督对抗哈希算法的大规模图像检索方法，曹媛，刘峻玮，桂杰，许晓伟。202110531130.8，2022.07.19。   
++ 国家发明专利：基于维度分析量化器哈希学习的数据检索方法，曹媛，陈娜，桂杰，许晓伟。202011107446.6，2022.04.26。  
++ 国家发明专利：基于深度特征一致哈希算法的图像检索方法，曹媛，刘峻玮，桂杰，陶小旖旎。202110883325.9，2021.11.02。   
++ 国家发明专利：基于结合生成对抗网络的哈希算法的大规模数据检索方法，曹媛，吴翔宇，桂杰。202110756991.6，2021.09.24。
++ 国家发明专利：基于联合语义矩阵的深度跨模态哈希的图像检索方法，曹媛，陈娜，桂杰。202110730743.4，2021.09.14。   
 
 ## 发表论文（<a href="https://dblp.uni-trier.de/pid/52/4472-5.html">DBLP</a>） 
 \* 通讯作者，\# 共同一作   
-<!--+ Jie Gui, Xiaofeng Cong*,  **Yuan Cao*** , Wenqi Ren, Jun Zhang, Jing Zhang, Jiuxin Cao, Dacheng Tao. “A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning”, 2023, ACM Computing Surveys (**SCI一区TOP期刊**, IF: 14.324). <span style="color:red;">**New!**</span>-->           
+<!--+ Jie Gui, Xiaofeng Cong*,  **Yuan Cao*** , Wenqi Ren, Jun Zhang, Jing Zhang, Jiuxin Cao, Dacheng Tao. “A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning”, 2023, ACM Computing Surveys (**SCI一区TOP期刊**, IF: 14.324). <span style="color:red;">**New!**</span>   
+Wenzhe Jia, **Yuan Cao***, Junwei Liu, Jie Gui. “Fast Online Hashing with Multi-Label Projection”, 2023, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF A**--> 
 + **Yuan Cao**, Junwei Liu, Heng Qi*, Jie Gui*, Keqiu Li, Jieping Ye, Chao Liu. “Scalable Distributed Hashing for Approximate Nearest Neighbor Search”, 2022, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF A**).      
 + Jie Gui#, **Yuan Cao**#*, Heng Qi*, Keqiu Li, Jieping Ye, Chao Liu, Xiaowei Xu. “Fast kNN Search in Weighted Hamming Space with Multiple Tables.”, 2021, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF A**).      
 + **Yuan Cao**, Heng Qi*, Jie Gui*, Keqiu Li, Yuan Yan Tang, James Tin-Yau Kwok. “Learning to Hash with Dimension Analysis based Quantizer for Image Retrieval”, 2020, IEEE Transactions on Multimedia (**SCI一区TOP期刊**, IF: 6.513, **CCF B**).      
