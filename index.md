@@ -45,11 +45,10 @@
 ## 发表论文（<a href="#">谷歌学术</a>） 
 \* 通讯作者，\# 共同一作   
 
-+ Jie Gui, Xiaofeng Cong*, **Yuan Cao***, Wenqi Ren, Jun Zhang, Jing Zhang, Jiuxin Cao, Dacheng Tao. “A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning”, 2023, ACM Computing Surveys (SCI一区TOP期刊, IF: 14.324).      
-2. Wenzhe Jia, **Yuan Cao***, Junwei Liu, Jie Gui. “Fast Online Hashing with Multi-Label Projection”, 2023, AAAI Conference on Artificial Intelligence (AAAI, CCF A).      
-3.* Yuan Cao, Junwei Liu, Heng Qi*, Jie Gui*, Keqiu Li, Jieping Ye, Chao Liu. “Scalable Distributed Hashing for Approximate Nearest Neighbor Search”, 2022, IEEE Transactions on Image Processing (SCI一区TOP期刊, IF: 10.856, CCF A类).      
-4.* Jie Gui#, Yuan Cao#*, Heng Qi*, Keqiu Li, Jieping Ye, Chao Liu, Xiaowei Xu. “Fast kNN Search in Weighted Hamming Space with Multiple Tables.”, 2021, IEEE Transactions on Image Processing (SCI一区TOP期刊, IF: 10.856, CCF A类).      
-5.* Yuan Cao, Heng Qi*, Jie Gui*, Keqiu Li, Yuan Yan Tang, James Tin-Yau Kwok. “Learning to Hash with Dimension Analysis based Quantizer for Image Retrieval”, 2020, IEEE Transactions on Multimedia (SCI一区TOP期刊, IF: 6.513, CCF B类).      
++ Jie Gui, Xiaofeng Cong*, **Yuan Cao***, Wenqi Ren, Jun Zhang, Jing Zhang, Jiuxin Cao, Dacheng Tao. “A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning”, 2023, ACM Computing Surveys (**SCI一区TOP期刊**, IF: 14.324).           
++ **Yuan Cao**, Junwei Liu, Heng Qi*, Jie Gui*, Keqiu Li, Jieping Ye, Chao Liu. “Scalable Distributed Hashing for Approximate Nearest Neighbor Search”, 2022, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF A**).      
++ Jie Gui#, **Yuan Cao#***, Heng Qi*, Keqiu Li, Jieping Ye, Chao Liu, Xiaowei Xu. “Fast kNN Search in Weighted Hamming Space with Multiple Tables.”, 2021, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF A**).      
++ **Yuan Cao**, Heng Qi*, Jie Gui*, Keqiu Li, Yuan Yan Tang, James Tin-Yau Kwok. “Learning to Hash with Dimension Analysis based Quantizer for Image Retrieval”, 2020, IEEE Transactions on Multimedia (**SCI一区TOP期刊**, IF: 6.513, **CCF B**).      
 6.* Yuan Cao, Sheng Chen, Jie Gui*, Heng Qi*, Zhiyang Li, Chao Liu. “Hash Learning with Variable Quantization for Large-scale Retrieval.”, 2022, IEEE Transactions on Circuits and Systems for Video Technology (SCI一区TOP期刊，IF: 4.685, CCF B类).      
 7.* Jie Gui, Xiaofeng Cong, Yuan Cao*, Wenqi Ren, Jun Zhang, Jing Zhang, Dacheng Tao. “A Comprehensive Survey on Image Dehazing Based on Deep Learning.”, 2021, International Joint Conferences on Artificial Intelligence Organization (IJCAI2021, CCF A类).      
 8.* Yuan Cao, Heng Qi*, Jien Kato, Keqiu Li. “Hash Ranking with Weighted Asymmetric Distance.”, 2017, IEEE Transactions on Computational Imaging (SCI二区, IF: 3.49).
