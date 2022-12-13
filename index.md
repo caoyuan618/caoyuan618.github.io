@@ -17,7 +17,7 @@
 **教授课程：** 离散数学Ⅱ，软件工程
 
 ## 新闻
-+ <span style="color:red;">2022/11/19 祝贺曹媛为通讯作者的论文"A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning"被中科院一区期刊ACM Computing Surveys接收！
++ <span style="color:red;">2022/12/12 祝贺曹媛为通讯作者的论文"A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning"被中科院一区期刊ACM Computing Surveys接收！
 + <span style="color:red;">2022/11/19 祝贺贾文哲为第一作者的论文“Fast Online Hashing with Multi-Label Projection”被CCF A类会议AAAI2023接收！</span>
 + <span style="color:red;">2022/09/08 国家自然科学基金青年基金“面向大规模跨模态检索的深度自监督哈希学习算法研究”（批准号：62202438，资助金额：30万）成功获批！</span>
 + <span style="color:red;">2022/08/01 获得2022年山东省第九届高校青年教师教学比赛优秀奖！</span>    
