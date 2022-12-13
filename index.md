@@ -17,6 +17,7 @@
 **教授课程：** 离散数学Ⅱ，软件工程
 
 ## 新闻
++ <span style="color:red;">2022/11/19 祝贺曹媛为通讯作者的论文"A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning"被中科院一区期刊ACM Computing Surveys接收！
 + <span style="color:red;">2022/11/19 祝贺贾文哲为第一作者的论文“Fast Online Hashing with Multi-Label Projection”被CCF A类会议AAAI2023接收！</span>
 + <span style="color:red;">2022/09/08 国家自然科学基金青年基金“面向大规模跨模态检索的深度自监督哈希学习算法研究”（批准号：62202438，资助金额：30万）成功获批！</span>
 + <span style="color:red;">2022/08/01 获得2022年山东省第九届高校青年教师教学比赛优秀奖！</span>    
@@ -53,7 +54,7 @@
 
 ## 发表论文（<a href="https://dblp.uni-trier.de/pid/52/4472-5.html">DBLP</a>） 
 \* 通讯作者，\# 共同一作   
-<!--+ Jie Gui, Xiaofeng Cong*,  **Yuan Cao*** , Wenqi Ren, Jun Zhang, Jing Zhang, Jiuxin Cao, Dacheng Tao. “A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning”, 2023, ACM Computing Surveys (**SCI一区TOP期刊**, IF: 14.324). <span style="color:red;">**New!**</span>-->   
++ Jie Gui, Xiaofeng Cong*,  **Yuan Cao*** , Wenqi Ren, Jun Zhang, Jing Zhang, Jiuxin Cao, Dacheng Tao. “A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning”, 2023, ACM Computing Surveys (**SCI一区TOP期刊**, IF: 14.324). <span style="color:red;">**New!**</span>   
 + Wenzhe Jia, **Yuan Cao***, Junwei Liu, Jie Gui. “Fast Online Hashing with Multi-Label Projection”, 2023, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF A**, 接收率=1721/8777=19.6%). <span style="color:red;">**New!**</span>    
 + **Yuan Cao**, Junwei Liu, Heng Qi*, Jie Gui*, Keqiu Li, Jieping Ye, Chao Liu. “Scalable Distributed Hashing for Approximate Nearest Neighbor Search”, 2022, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF A**).      
 + Jie Gui#, **Yuan Cao***#, Heng Qi*, Keqiu Li, Jieping Ye, Chao Liu, Xiaowei Xu. “Fast kNN Search in Weighted Hamming Space with Multiple Tables.”, 2021, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF A**).      
