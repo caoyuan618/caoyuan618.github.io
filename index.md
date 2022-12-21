@@ -55,7 +55,7 @@
 ## 发表论文（<a href="https://dblp.uni-trier.de/pid/52/4472-5.html">DBLP</a>） 
 \* 通讯作者，\# 共同一作   
 + Jie Gui, Xiaofeng Cong*,  **Yuan Cao*** , Wenqi Ren, Jun Zhang, Jing Zhang, Jiuxin Cao, Dacheng Tao. “A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning”, 2023, ACM Computing Surveys (**SCI一区TOP期刊**, IF: 14.324). <span style="color:red;">**New!**</span>   
-+ Wenzhe Jia, **Yuan Cao***, Junwei Liu, Jie Gui. “Fast Online Hashing with Multi-Label Projection”, 2023, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF A**, 接收率=1721/8777=19.6%). <span style="color:red;">**New!**</span>    
++ Wenzhe Jia, **Yuan Cao***, Junwei Liu, Jie Gui. “Fast Online Hashing with Multi-Label Projection”, 2023, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF A**, 接收率=1721/8777=19.6%). <span style="color:red;"><a href="https://github.com/caoyuan57/FOH">[Code]</a>**New!**</span> 
 + **Yuan Cao**, Junwei Liu, Heng Qi*, Jie Gui*, Keqiu Li, Jieping Ye, Chao Liu. “Scalable Distributed Hashing for Approximate Nearest Neighbor Search”, 2022, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF A**).      
 + Jie Gui#, **Yuan Cao***#, Heng Qi*, Keqiu Li, Jieping Ye, Chao Liu, Xiaowei Xu. “Fast kNN Search in Weighted Hamming Space with Multiple Tables.”, 2021, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF A**).      
 + **Yuan Cao**, Heng Qi*, Jie Gui*, Keqiu Li, Yuan Yan Tang, James Tin-Yau Kwok. “Learning to Hash with Dimension Analysis based Quantizer for Image Retrieval”, 2020, IEEE Transactions on Multimedia (**SCI一区TOP期刊**, IF: 6.513, **CCF B**).      
@@ -67,7 +67,8 @@
 + **Yuan Cao**, Heng Qi*, Keqiu Li, Milos Stojmenovic. “Multiple Query-independent Values based Asymmetric Ranking for Approximate Nearest Neighbor Search.”, 2016, IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA, CCF C).      
 + Junwei Liu, **Yuan Cao***, Sheng Chen, Chengzhi Qian. “FIDH : A Deep Hash Learning Architecture for Mobile Cloud Retrieval.”, 2022, International Conference on Algorithms, Systems, and Applications of Wireless Networks (WASA, CCF C).      
 + Na Chen, **Yuan Cao***, Chao Liu., 2021, “Deep Cross-modal Supervised Hashing based on Joint Semantic Matrix”, 2021, International Conference on Network and System Security (NSS).      
-+ **Yuan Cao**, Heng Qi*, Keqiu Li, Yingwei Jin, Zhiyang Li. “WARank:Weighted Asymmetric Ranking for Approximate Nearest Neighbor Search.”, 2015, IEEE International Conference on Computer and Information Technology (CIT).      
++ **Yuan Cao**, Heng Qi*, Keqiu Li, Yingwei Jin, Zhiyang Li. “WARank:Weighted Asymmetric Ranking for Approximate Nearest Neighbor Search.”, 2015, IEEE International Conference on Computer and Information Technology (CIT).
++ Guangming Qin#, Lexue Song#, Yanwei Yu*, Chao Huang, Wenzhe Jia, Yuan Cao, Junyu Dong. "Graph Structure Learning on User Mobility Data for Social Relationship Inference.", 2023, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF A**, 接收率=1721/8777=19.6%).
 + Zhiyang Li, Wenyu Qu*, **Yuan Cao**, Heng Qi, Milos Stojmenovic. “Scale Balance for Prototype-based Binary Quantization.”, Pattern Recognition, 2020. (**SCI一区TOP期刊**, IF: 7.74, **CCF B**).      
 + Heng Qi*, **Yuan Cao**, Keqiu Li, Yingwei Jin. “Representative Shape based Indexing Framework for Context-Sensitive Shape Retrieval.”, 2015, Multiple-Valued Logic and Soft Computing (SCI四区, IF: 0.613).      
 + Wenrui Zhou, **Yuan Cao**, Heng Qi*, Junxiao Wang. “An Effective Network Intrusion Detection Framework Based on Learning to Hash.”, 2019, IEEE International Conference on Smart Internet of Things (SmartIoT).      
