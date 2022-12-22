@@ -60,7 +60,7 @@
 
 ## 发表论文（<a href="https://dblp.uni-trier.de/pid/52/4472-5.html">DBLP</a>） 
 \* 通讯作者，\# 共同一作   
-+ Jie Gui, Xiaofeng Cong*,  **Yuan Cao*** , Wenqi Ren, Jun Zhang, Jing Zhang, Jiuxin Cao, Dacheng Tao. “A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning”, 2023, ACM Computing Surveys (**SCI一区TOP期刊**, IF: 14.324). <span style="color:red;">**New!**</span>   
++ Jie Gui, Xiaofeng Cong*,  **Yuan Cao*** , Wenqi Ren, Jun Zhang, Jing Zhang, Jiuxin Cao, Dacheng Tao. “A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning”, 2023, ACM Computing Surveys (**SCI一区TOP期刊**, IF: 14.324). <a href="https://dl.acm.org/doi/10.1145/3576918">[PDF] </a> <span style="color:red;">**New!**</span>   
 + Wenzhe Jia, **Yuan Cao***, Junwei Liu, Jie Gui. “Fast Online Hashing with Multi-Label Projection”, 2023, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF A**, 接收率=1721/8777=19.6%). <a href="https://arxiv.org/pdf/2212.03112.pdf">[PDF] </a> <a href="https://github.com/caoyuan57/FOH">[Code] </a> <span style="color:red;">**New!**</span> 
 + **Yuan Cao**, Junwei Liu, Heng Qi*, Jie Gui*, Keqiu Li, Jieping Ye, Chao Liu. “Scalable Distributed Hashing for Approximate Nearest Neighbor Search”, 2022, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF A**). <a href="https://ieeexplore.ieee.org/document/9640585">[PDF] </a>     
 + Jie Gui#, **Yuan Cao***#, Heng Qi*, Keqiu Li, Jieping Ye, Chao Liu, Xiaowei Xu. “Fast kNN Search in Weighted Hamming Space with Multiple Tables.”, 2021, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF A**). <a href="https://ieeexplore.ieee.org/document/9388919">[PDF] </a>        
