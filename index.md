@@ -18,11 +18,11 @@ Google Scholar Profile: <a href="https://scholar.google.com.hk/citations?hl=zh-C
 **办公地址：** 中国海洋大学西海岸校区 计算机楼C407  
 **教授课程：** 离散数学Ⅱ，软件工程
 
-## 新闻
-+ <span style="color:red;">2022/12/12 祝贺曹媛为通讯作者的论文"A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning"被中科院一区期刊ACM Computing Surveys接收！
-+ <span style="color:red;">2022/11/19 祝贺贾文哲为第一作者的论文“Fast Online Hashing with Multi-Label Projection”被CCF A类会议AAAI2023接收！</span>
-+ <span style="color:red;">2022/09/08 国家自然科学基金青年基金“面向大规模跨模态检索的深度自监督哈希学习算法研究”（批准号：62202438，资助金额：30万）成功获批！</span>
-+ <span style="color:red;">2022/08/01 获得2022年山东省第九届高校青年教师教学比赛优秀奖！</span>    
+<!-- ## 新闻 -->
+<!-- + <span style="color:red;">2022/12/12 祝贺曹媛为通讯作者的论文"A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning"被中科院一区期刊ACM Computing Surveys接收！-->
+<!-- + <span style="color:red;">2022/11/19 祝贺贾文哲为第一作者的论文“Fast Online Hashing with Multi-Label Projection”被CCF A类会议AAAI2023接收！</span>-->
+<!-- + <span style="color:red;">2022/09/08 国家自然科学基金青年基金“面向大规模跨模态检索的深度自监督哈希学习算法研究”（批准号：62202438，资助金额：30万）成功获批！</span>-->
+<!-- + <span style="color:red;">2022/08/01 获得2022年山东省第九届高校青年教师教学比赛优秀奖！</span>-->    
 
 ## 工作经历
 2019/10-至今，中国海洋大学，计算机科学与技术学院，讲师  
@@ -34,8 +34,8 @@ Google Scholar Profile: <a href="https://scholar.google.com.hk/citations?hl=zh-C
 2009/09-2013/07，大连海事大学，计算机科学与技术专业，学士  
 
 ## 奖励荣誉
-2022年获山东省第九届高校青年教师教学比赛优秀奖<span style="color:red;"> **New!**</span>   
-2022年获中国海洋大学青年教师教学大赛三等奖<span style="color:red;"> **New!**</span>      
+2022年获山东省第九届高校青年教师教学比赛优秀奖   
+2022年获中国海洋大学青年教师教学大赛三等奖      
 2022年获区块链开发高级工程师证书    
 2021年获计算机视觉高级工程师证书     
 2019年获大连市优秀毕业生    
@@ -64,7 +64,7 @@ Google Scholar Profile: <a href="https://scholar.google.com.hk/citations?hl=zh-C
 \* 通讯作者，\# 共同一作   
 + Jie Gui, Xiaofeng Cong*,  **Yuan Cao***, Wenqi Ren, Jun Zhang, Jing Zhang, Jiuxin Cao, Dacheng Tao. “A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning”, 2023, ACM Computing Surveys (**SCI一区TOP期刊**, IF: 14.324). <a href="https://dl.acm.org/doi/10.1145/3576918">[PDF] </a>        
 + Wenzhe Jia, **Yuan Cao***, Junwei Liu, Jie Gui. “Fast Online Hashing with Multi-Label Projection”, 2023, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF A**, 接收率=1721/8777=19.6%). <a href="https://arxiv.org/pdf/2212.03112.pdf">[PDF] </a> <a href="https://github.com/caoyuan57/FOH">[Code]   
-+ **Yuan Cao**, Junwei Liu, Heng Qi*, Jie Gui*, Keqiu Li, Jieping Ye, Chao Liu. “Scalable Distributed Hashing for Approximate Nearest Neighbor Search”, 2022, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF A**). <a href="https://ieeexplore.ieee.org/document/9640585">[PDF] </a>     
++ **Yuan Cao**, Junwei Liu, Heng Qi*, Jie Gui*, Keqiu Li, Jieping Ye, Chao Liu. “Scalable Distributed Hashing for Approximate Nearest Neighbor Search”, 2022, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF A**). <a href="https://ieeexplore.ieee.org/document/9640585">[PDF] </a>   
 + Jie Gui#, **Yuan Cao***#, Heng Qi*, Keqiu Li, Jieping Ye, Chao Liu, Xiaowei Xu. “Fast kNN Search in Weighted Hamming Space with Multiple Tables.”, 2021, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF A**). <a href="https://ieeexplore.ieee.org/document/9388919">[PDF] </a>        
 + **Yuan Cao**, Heng Qi*, Jie Gui*, Keqiu Li, Yuan Yan Tang, James Tin-Yau Kwok. “Learning to Hash with Dimension Analysis based Quantizer for Image Retrieval”, 2020, IEEE Transactions on Multimedia (**SCI一区TOP期刊**, IF: 6.513, **CCF B**). <a href="https://ieeexplore.ieee.org/document/9238437">[PDF] </a> <a href="https://github.com/caoyuan57/DAQ">[Code] </a>       
 + **Yuan Cao**, Sheng Chen, Jie Gui*, Heng Qi*, Zhiyang Li, Chao Liu. “Hash Learning with Variable Quantization for Large-scale Retrieval.”, 2022, IEEE Transactions on Circuits and Systems for Video Technology (**SCI一区TOP期刊**，IF: 4.685, **CCF B**). <a href="https://ieeexplore.ieee.org/document/9321491">[PDF] </a>     
