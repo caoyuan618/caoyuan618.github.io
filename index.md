@@ -34,6 +34,7 @@ Google Scholar Profile: <a href="https://scholar.google.com.hk/citations?hl=zh-C
 2009/09-2013/07，大连海事大学，计算机科学与技术专业，学士  
 
 ## 奖励荣誉
+2023年获AIGC-ChatGPT高级工程师证书    
 2022年获山东省第九届高校青年教师教学比赛优秀奖   
 2022年获中国海洋大学青年教师教学大赛三等奖      
 2022年获区块链开发高级工程师证书    
