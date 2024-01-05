@@ -3,7 +3,7 @@
 
 <p style="width:970px;">
     <img src="/caoyuan.jpg" align="right" width="180" hspace="5" vspace="5">
-    中国海洋大学信息科学与工程学部计算机科学与技术学院讲师，硕士生导师。主要研究方向：大规模数据检索、深度学习、计算机视觉、区块链应用技术。博士毕业于大连理工大学计算机应用技术专业，导师为李克秋教授。曾于2017年9月-2018年9月赴美国罗格斯大学(Rutgers University)进行为期一年的博士联合培养，导师为Prof. Ping Li。获得计算机视觉高级工程师和区块链开发高级工程师证书。以第一作者或通讯作者在IEEE TIP、IEEE TMM、IEEE TCSVT、IEEE TCI、AAAI、IJCAI等国际高水平期刊和会议上发表论文10余篇。担任IEEE TIP、IEEE TCSVT、CVPR、ECCV、IJCAI、AAAI等顶刊顶会审稿人。主持国家自然科学基金青年基金、山东省自然科学基金青年基金、中国博士后科学基金面上资助、ISN开放基金等项目，参与多项国家重点研发计划项目、国家自然科学基金面上项目。
+    中国海洋大学信息科学与工程学部计算机科学与技术学院副教授，硕士生导师。主要研究方向：大规模数据多模态检索，对抗攻击，模型压缩，区块链应用技术。博士毕业于大连理工大学计算机应用技术专业，导师为李克秋教授。曾于2017年9月-2018年9月赴美国罗格斯大学(Rutgers University)进行为期一年的博士联合培养，导师为Prof. Ping Li。获得人工智能高级工程师，计算机视觉高级工程师，区块链开发高级工程师证书。以第一作者或通讯作者在IEEE TIP、IEEE TMM、IEEE TCSVT、IEEE TCI、AAAI、IJCAI等国际高水平期刊和会议上发表论文20余篇。担任IEEE TIP、TMM、TCSVT、CVPR、IJCAI、AAAI等顶刊顶会审稿人。主持国家自然科学基金青年基金、山东省自然科学基金青年基金、中国博士后科学基金面上资助、ISN开放基金等项目，参与多项国家重点研发计划项目、国家自然科学基金面上项目。
 </p>
 中国海洋大学主页：<a href="https://it.ouc.edu.cn/cy2/main.htm">曹媛</a>    
 
@@ -25,15 +25,29 @@ Google Scholar Profile: <a href="https://scholar.google.com.hk/citations?hl=zh-C
 <!-- + <span style="color:red;">2022/08/01 获得2022年山东省第九届高校青年教师教学比赛优秀奖！</span>-->    
 
 ## 工作经历
-2019/10-至今，中国海洋大学，计算机科学与技术学院，讲师  
-2019/11-至今，中国海洋大学，计算机科学与技术学院，博士后  
+2024/01-至今，   中国海洋大学，计算机科学与技术学院，副教授   
+2019/10-2023/12，中国海洋大学，计算机科学与技术学院，讲师  
+2019/11-2023/06，中国海洋大学，计算机科学与技术学院，博士后  
 
 ## 教育背景
 2013/09-2019/09，大连理工大学, 计算机应用技术专业，硕博连读，博士  
 2017/09-2018/09，美国罗格斯大学，统计学专业，联合培养博士  
 2009/09-2013/07，大连海事大学，计算机科学与技术专业，学士  
 
+## 学术任职
+综合业务网理论及关键技术国家重点实验室（ISN）客座研究人员   
+山东省人工智能学会（SDAI）理事   
+中国图象图形学学会（CSIG）机器视觉专委会委员   
+IEEE TIP、TMM、TCSVT、CVPR、AAAI、IJCAI等多个国际顶级期刊会议审稿人   
+
+## 学生获奖情况   
+1.2023年12月指导学生陈相儒获第二届“清华社杯”大学生算法大赛三等奖
+2.2023年12月指导硕士研究生贾文哲获国家奖学金
+3.2023年10月指导学生陈相儒、丁苍巍、洪扬获第四届全国大学生算法设计与编程挑战赛（秋季赛）优秀奖
+4.2022年12月指导硕士研究生刘峻玮获国家奖学金
+
 ## 奖励荣誉
+2023年或中国海洋大学青年教师教学大赛三等奖  
 2023年获AIGC-ChatGPT高级工程师证书    
 2022年获山东省第九届高校青年教师教学比赛优秀奖   
 2022年获中国海洋大学青年教师教学大赛三等奖      
@@ -42,7 +56,7 @@ Google Scholar Profile: <a href="https://scholar.google.com.hk/citations?hl=zh-C
 2019年获大连市优秀毕业生    
 2013年获大连市优秀毕业生    
 2010-2012连续三年获国家奖学金   
-    
+
 ## 科研项目
 [2023-2025] **国家自然科学基金青年基金**“面向大规模跨模态检索的深度自监督哈希学习算法研究”，62202438，30万元，**主持者**。 <!-- <span style="color:red;">**New!**</span>-->   
 [2021-2023] 山东省自然科学基金青年基金“面向海量高维数据检索的分布式哈希学习算法研究”，ZR2020QF041，15万元，**主持者**。    
@@ -84,8 +98,13 @@ Google Scholar Profile: <a href="https://scholar.google.com.hk/citations?hl=zh-C
 + Heng Qi*, **Yuan Cao**, Keqiu Li, Yingwei Jin. “Representative Shape based Indexing Framework for Context-Sensitive Shape Retrieval.”, 2015, Multiple-Valued Logic and Soft Computing (SCI四区, IF: 0.613).      
 + Wenrui Zhou, **Yuan Cao**, Heng Qi*, Junxiao Wang. “An Effective Network Intrusion Detection Framework Based on Learning to Hash.”, 2019, IEEE International Conference on Smart Internet of Things (SmartIoT).      
 
+## 外语水平
+英语CET-6证书
+日语N2能力认定书
+韩语中级三级证书
+
 [↑Top](#Top)
 
 <a href="https://clustrmaps.com/site/1bf9f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff" /></a>
 
-**更新时间：2023/11**
+**更新时间：2024/01**
