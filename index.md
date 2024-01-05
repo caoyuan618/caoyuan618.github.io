@@ -99,9 +99,9 @@ IEEE TIP、TMM、TCSVT、CVPR、AAAI、IJCAI等多个国际顶级期刊会议审
 + Wenrui Zhou, **Yuan Cao**, Heng Qi*, Junxiao Wang. “An Effective Network Intrusion Detection Framework Based on Learning to Hash.”, 2019, IEEE International Conference on Smart Internet of Things (SmartIoT).      
 
 ## 外语水平
-英语CET-6证书
-日语N2能力认定书
-韩语中级三级证书
+英语CET-6证书    
+日语N2能力认定书    
+韩语中级三级证书    
 
 [↑Top](#Top)
 
