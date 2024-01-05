@@ -13,7 +13,7 @@ Google Scholar Profile: <a href="https://scholar.google.com.hk/citations?hl=zh-C
 
 ## 基本信息
 **工作单位：** <a href="http://www.ouc.edu.cn/">中国海洋大学</a> <a href="http://it.ouc.edu.cn/main.htm">信息科学与工程学部</a> <a href="https://it.ouc.edu.cn/cs/main.htm">计算机科学与技术学院</a>  
-**现任职称：** 讲师   
+**现任职称：** 副教授   
 **电子邮箱：** cy8661@ouc.edu.cn  
 **办公地址：** 中国海洋大学西海岸校区 计算机楼C407  
 **教授课程：** 离散数学Ⅱ，软件工程
