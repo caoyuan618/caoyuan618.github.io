@@ -19,8 +19,8 @@ Hashing Link: <a href="https://github.com/caoyuan57/Hashing">Papers+Codes</a>
 **教授课程：** 离散数学Ⅱ，软件工程
 
 ## 新闻
-+ <span style="color:red;">2024/07/16 祝贺曹媛为第一作者的论文"Hypergraph Hash Learning for Efficient Trajectory Similarity Computation"被CCF B类会议CIKM2024接收！</span>
-+ <span style="color:red;">2023/04/08 祝贺曹媛为通讯作者的论文“Targeted Universal Adversarial Attack on Deep Hash Networks”被CCF B类会议ICMR2024接收！</span>
++ <span style="color:red;">2024/7/16 祝贺曹媛为第一作者的论文"Hypergraph Hash Learning for Efficient Trajectory Similarity Computation"被CCF B类会议CIKM2024接收！</span>
++ <span style="color:red;">2024/4/8 祝贺曹媛为通讯作者的论文“Targeted Universal Adversarial Attack on Deep Hash Networks”被CCF B类会议ICMR2024接收！</span>
 <!-- + <span style="color:red;">2022/09/08 国家自然科学基金青年基金“面向大规模跨模态检索的深度自监督哈希学习算法研究”（批准号：62202438，资助金额：30万）成功获批！</span>-->
 <!-- + <span style="color:red;">2022/08/01 获得2022年山东省第九届高校青年教师教学比赛优秀奖！</span>-->    
 
@@ -76,8 +76,8 @@ Hashing Link: <a href="https://github.com/caoyuan57/Hashing">Papers+Codes</a>
 
 ## 发表论文（<a href="https://dblp.uni-trier.de/pid/52/4472-5.html">DBLP</a>） 
 \* 通讯作者，\# 共同一作   
-+ **Yuan Cao**, Lei Li, Xiangru Chen, Xue Xu, Zuojin Huang and Yanwei Yu*. “Hypergraph Hash Learning for Efficient Trajectory Similarity Computation”, 2024, ACM International Conference on Information and Knowledge Management (CIKM2024, CCF-B).      
-+ Fanlei Meng, Xiangru Chen,  **Yuan Cao***.“Targeted Universal Adversarial Attack on Deep Hash Networks.”, 2024, ACM International Conference on Multimedia Retrieval (ICMR2024, CCF-B). <a href="https://dl.acm.org/doi/abs/10.1145/3652583.3658062">[PDF] </a>     
++ **Yuan Cao**, Lei Li, Xiangru Chen, Xue Xu, Zuojin Huang and Yanwei Yu*. “Hypergraph Hash Learning for Efficient Trajectory Similarity Computation”, 2024, ACM International Conference on Information and Knowledge Management (CIKM, CCF-B).      
++ Fanlei Meng, Xiangru Chen,  **Yuan Cao***.“Targeted Universal Adversarial Attack on Deep Hash Networks.”, 2024, ACM International Conference on Multimedia Retrieval (ICMR, CCF-B). <a href="https://dl.acm.org/doi/abs/10.1145/3652583.3658062">[PDF] </a>     
 + Jie Gui, Xiaofeng Cong*,  **Yuan Cao***, Wenqi Ren, Jun Zhang, Jing Zhang, Jiuxin Cao, Dacheng Tao. “A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning”, 2023, ACM Computing Surveys (**SCI一区TOP期刊**, IF: 14.324). <a href="https://dl.acm.org/doi/10.1145/3576918">[PDF] </a>        
 + Wenzhe Jia, **Yuan Cao***, Junwei Liu, Jie Gui. “Fast Online Hashing with Multi-Label Projection”, 2023, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**, 接收率=1721/8777=19.6%). <a href="https://arxiv.org/pdf/2212.03112.pdf">[PDF] </a> <a href="https://github.com/caoyuan57/FOH">[Code]   
 + **Yuan Cao**, Junwei Liu, Heng Qi*, Jie Gui*, Keqiu Li, Jieping Ye, Chao Liu. “Scalable Distributed Hashing for Approximate Nearest Neighbor Search”, 2022, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF-A**). <a href="https://ieeexplore.ieee.org/document/9640585">[PDF] </a>   
