@@ -19,7 +19,7 @@ Hashing Link: <a href="https://github.com/caoyuan57/Hashing">Papers+Codes</a>
 **教授课程：** 离散数学Ⅱ，软件工程
 
 ## 新闻
-+ <span style="color:red;">2024/09/18 山东省自然科学基金面上基金“基于哈希学习的大规模检索与攻击方法研究”（资助金额：15万）成功获批！</span>
++ <span style="color:red;">2024/09/18 山东省自然科学基金面上基金“基于哈希学习的大规模检索与攻击方法研究”（资助金额：10万）成功获批！</span>
 + <span style="color:red;">2024/7/16 祝贺曹媛为第一作者的论文"Hypergraph Hash Learning for Efficient Trajectory Similarity Computation"被CCF B类会议CIKM2024接收！</span>
 + <span style="color:red;">2024/4/8 祝贺曹媛为通讯作者的论文“Targeted Universal Adversarial Attack on Deep Hash Networks”被CCF B类会议ICMR2024接收！</span>
 <!-- + <span style="color:red;">2022/09/08 国家自然科学基金青年基金“面向大规模跨模态检索的深度自监督哈希学习算法研究”（批准号：62202438，资助金额：30万）成功获批！</span>-->
