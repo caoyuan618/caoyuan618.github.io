@@ -18,7 +18,7 @@ Hashing Link: <a href="https://github.com/caoyuan57/Hashing">Papers+Codes</a>
 **办公地址：** 中国海洋大学西海岸校区 计算机楼C407  
 **教授课程：** 离散数学Ⅱ，软件工程
 
-## 新闻
+<!--## 新闻
 + <span style="color:red;">2024/09/18 祝贺山东省自然科学基金面上基金“基于哈希学习的大规模检索与攻击方法研究”（资助金额：10万）成功获批！</span>
 + <span style="color:red;">2024/07/16 祝贺课题组论文"Hypergraph Hash Learning for Efficient Trajectory Similarity Computation"被CCF B类会议CIKM2024接收！</span>
 + <span style="color:red;">2024/040/8 祝贺课题组论文“Targeted Universal Adversarial Attack on Deep Hash Networks”被CCF B类会议ICMR2024接收！</span>
