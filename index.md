@@ -48,6 +48,7 @@ Hashing Link: <a href="https://github.com/caoyuan57/Hashing">Papers+Codes</a>
 2022年12月指导硕士研究生刘峻玮获国家奖学金    
 
 ## 奖励荣誉
+2024年获山东省计算机视觉最佳学术论文奖      
 2024年获CCF青岛青年菁英学术交流荟学术新星二等奖      
 2023年或中国海洋大学青年教师教学大赛三等奖  
 2023年获AIGC-ChatGPT高级工程师证书    
