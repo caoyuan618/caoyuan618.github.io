@@ -81,7 +81,7 @@ Hashing Link: <a href="https://github.com/caoyuan57/Hashing">Papers+Codes</a>
 
 ## 发表论文（<a href="https://dblp.uni-trier.de/pid/52/4472-5.html">DBLP</a>） 
 \* 通讯作者，\# 共同一作   
-+ **Yuan Cao**, Xinzheng Shang, Fanlei Meng, Jie Gui* and Yuan Yan Tang. "A Privacy-preserving Large-scale Image Retrieval Framework with Vision GNN Hashing", 2024, IEEE Transactions on Big Data (SCI二区期刊, IF: 10.856, CCF-C). <a href="https://github.com/caoyuan57/ViGH">[Code] </a>     
++ **Yuan Cao**, Xinzheng Shang, Fanlei Meng, Jie Gui* and Yuan Yan Tang. "A Privacy-preserving Large-scale Image Retrieval Framework with Vision GNN Hashing", 2024, IEEE Transactions on Big Data (SCI二区期刊, IF: 7.5, CCF-C). <a href="https://github.com/caoyuan57/ViGH">[Code] </a>     
 + **Yuan Cao**, Lei Li, Xiangru Chen, Xue Xu, Zuojin Huang and Yanwei Yu*. “Hypergraph Hash Learning for Efficient Trajectory Similarity Computation”, 2024, ACM International Conference on Information and Knowledge Management (CIKM, **CCF-B**, 接收率=347/1496=23%). <a href="https://github.com/caoyuan57/HHL-Traj">[Code]     
 + Fanlei Meng, Xiangru Chen,  **Yuan Cao***.“Targeted Universal Adversarial Attack on Deep Hash Networks.”, 2024, ACM International Conference on Multimedia Retrieval (ICMR, **CCF-B**). <a href="https://dl.acm.org/doi/abs/10.1145/3652583.3658062">[PDF] <a href="https://github.com/caoyuan57/TUA">[Code] </a>      
 + Jie Gui, Xiaofeng Cong,  **Yuan Cao***, Wenqi Ren, Jun Zhang, Jing Zhang, Jiuxin Cao, Dacheng Tao. “A Comprehensive Survey and Taxonomy on Image Dehazing Based on Deep Learning”, 2023, ACM Computing Surveys (**SCI一区TOP期刊**, IF: 14.324). <a href="https://dl.acm.org/doi/10.1145/3576918">[PDF] </a>        
