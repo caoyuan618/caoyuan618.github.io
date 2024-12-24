@@ -81,7 +81,7 @@ Hashing Link: <a href="https://github.com/caoyuan57/Hashing">Papers+Codes</a>
 
 ## 发表论文（<a href="https://dblp.uni-trier.de/pid/52/4472-5.html">DBLP</a>） 
 \* 通讯作者，\# 共同一作  
-+ **Yuan Cao**, Xiangru Chen, Zifan Liu, Wenzhe Jia, Fanlei Meng, Jie Gui. “Deep Graph Online Hashing for Multi-label Image Retrieval”, 2025, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**, 接收率=3032/12957=23.4%).          
++ **Yuan Cao**, Xiangru Chen, Zifan Liu, Wenzhe Jia, Fanlei Meng, Jie Gui*. “Deep Graph Online Hashing for Multi-label Image Retrieval”, 2025, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**, 接收率=3032/12957=23.4%).          
 + Haozhi Fan, **Yuan Cao***. “Vision-guided Text Mining for Unsupervised Cross-modal Hashing with Community Similarity Quantization”, 2025, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**, 接收率=3032/12957=23.4%).
 + **Yuan Cao**, Hui Zhang, Xinzheng Shang. "A Privacy-preserving Cross-modal Retrieval Scheme based on CLIP and Deep Hashing", 2025, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP, **CCF-B**).                    
 + **Yuan Cao**, Fanlei Meng, Xinzheng Shang, Jie Gui* and Yuan Yan Tang. "A Privacy-preserving Large-scale Image Retrieval Framework with Vision GNN Hashing", 2024, IEEE Transactions on Big Data (SCI二区, IF: 7.5, CCF-C). <a href="https://ieeexplore.ieee.org/abstract/document/10767424">[PDF]  <a href="https://github.com/caoyuan57/ViGH">[Code] </a>     
