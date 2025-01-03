@@ -38,6 +38,7 @@ Hashing Link: <a href="https://github.com/caoyuan57/Hashing">Papers+Codes</a>
 2009/09-2013/07，大连海事大学，计算机科学与技术专业，学士  
 
 ## 学术任职
+威海市协同创新工程师    
 综合业务网理论及关键技术国家重点实验室（ISN）客座研究人员   
 山东省人工智能学会（SDAI）理事   
 中国图象图形学学会（CSIG）机器视觉专委会委员   
