@@ -37,6 +37,7 @@ Hashing Link: <a href="https://github.com/caoyuan57/Hashing">Papers+Codes</a>
 2009/09-2013/07，大连海事大学，计算机科学与技术专业，学士  
 
 ## 学术任职
+威海市驰云网络科技有限公司协同创新工程师
 综合业务网理论及关键技术国家重点实验室（ISN）客座研究人员   
 山东省人工智能学会（SDAI）理事   
 中国图象图形学学会（CSIG）机器视觉专委会委员   
@@ -48,9 +49,11 @@ Hashing Link: <a href="https://github.com/caoyuan57/Hashing">Papers+Codes</a>
 2022年12月指导硕士研究生刘峻玮获国家奖学金    
 
 ## 奖励荣誉
+2024年获中国海洋大学2024年度课程教学优秀奖      
 2024年获山东省计算机视觉最佳学术论文奖      
 2024年获CCF青岛青年菁英学术交流荟学术新星二等奖      
 2023年或中国海洋大学青年教师教学大赛三等奖  
+2023年获中国海洋大学2023年度课程教学优秀奖     
 2023年获AIGC-ChatGPT高级工程师证书    
 2022年获山东省第九届高校青年教师教学比赛优秀奖   
 2022年获中国海洋大学青年教师教学大赛三等奖      
@@ -83,7 +86,7 @@ Hashing Link: <a href="https://github.com/caoyuan57/Hashing">Papers+Codes</a>
 \* 通讯作者，\# 共同一作  
 + **Yuan Cao**, Xiangru Chen, Zifan Liu, Wenzhe Jia, Fanlei Meng, Jie Gui*. “Deep Graph Online Hashing for Multi-label Image Retrieval”, 2025, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**, 接收率=3032/12957=23.4%).          
 + Haozhi Fan, **Yuan Cao***. “Vision-guided Text Mining for Unsupervised Cross-modal Hashing with Community Similarity Quantization”, 2025, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**, 接收率=3032/12957=23.4%).
-+ **Yuan Cao**, Hui Zhang, Xinzheng Shang. "A Privacy-preserving Cross-modal Retrieval Scheme based on CLIP and Deep Hashing", 2025, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP, **CCF-B**).                    
++ **Yuan Cao***, Hui Zhang, Xinzheng Shang. "A Privacy-preserving Cross-modal Retrieval Scheme based on CLIP and Deep Hashing", 2025, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP, **CCF-B**).                    
 + **Yuan Cao**, Fanlei Meng, Xinzheng Shang, Jie Gui* and Yuan Yan Tang. "A Privacy-preserving Large-scale Image Retrieval Framework with Vision GNN Hashing", 2024, IEEE Transactions on Big Data (SCI二区, IF: 7.5, CCF-C). <a href="https://ieeexplore.ieee.org/abstract/document/10767424">[PDF]  <a href="https://github.com/caoyuan57/ViGH">[Code] </a>     
 + **Yuan Cao**, Lei Li, Xiangru Chen, Xue Xu, Zuojin Huang and Yanwei Yu*. “Hypergraph Hash Learning for Efficient Trajectory Similarity Computation”, 2024, ACM International Conference on Information and Knowledge Management (CIKM, **CCF-B**, 接收率=347/1496=23%). <a href="https://dl.acm.org/doi/abs/10.1145/3627673.3679555">[PDF] <a href="https://github.com/caoyuan57/HHL-Traj">[Code]     
 + Fanlei Meng, Xiangru Chen,  **Yuan Cao***.“Targeted Universal Adversarial Attack on Deep Hash Networks.”, 2024, ACM International Conference on Multimedia Retrieval (ICMR, **CCF-B**). <a href="https://dl.acm.org/doi/abs/10.1145/3652583.3658062">[PDF] <a href="https://github.com/caoyuan57/TUA">[Code] </a>      
