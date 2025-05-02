@@ -120,7 +120,7 @@ Hashing Link: <a href="https://github.com/caoyuan57/Hashing">Papers+Codes</a>
 日语N2能力认定书    
 韩语中级三级证书    
 
-## 业余兴趣      
+## 兴趣爱好      
 芭蕾   
 吉他     
 作诗     
