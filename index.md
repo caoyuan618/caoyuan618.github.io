@@ -115,10 +115,15 @@ Hashing Link: <a href="https://github.com/caoyuan57/Hashing">Papers+Codes</a>
 + Zhiyang Li, Wenyu Qu*, **Yuan Cao**, Heng Qi, Milos Stojmenovic. “Scale Balance for Prototype-based Binary Quantization.”, Pattern Recognition, 2020. (**SCI一区TOP期刊**, IF: 7.74, **CCF B**).          
 + Wenrui Zhou, **Yuan Cao**, Heng Qi*, Junxiao Wang. “An Effective Network Intrusion Detection Framework Based on Learning to Hash.”, 2019, IEEE International Conference on Smart Internet of Things (SmartIoT).      
 
-## 外语水平
+## 外语水平    
 英语CET-6证书    
 日语N2能力认定书    
 韩语中级三级证书    
+
+## 业余兴趣      
+芭蕾   
+吉他     
+作诗     
 
 [↑Top](#Top)
 
