@@ -7,7 +7,7 @@
 </p>
 中国海洋大学主页：<a href="https://it.ouc.edu.cn/cy2/main.htm">曹媛</a>     
 Google Scholar Profile: <a href="https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F5I2hnwaVmz-KcDmafPuf2e4L3EoZlqOtNosaEAJLlHzZsH6w3BO3ATGuSMJqDcwJ0ktSou5rsufyWu9mQSNLyl3yWctfpfrR5sBmMH0y0v5IKuvCw&user=2QD5NiEAAAAJ">Yuan Cao</a>     
-Hashing Link: <a href="https://github.com/caoyuan57/Hashing">Papers+Codes</a>
+Hashing Link: <a href="https://github.com/caoyuan618/Hashing">Papers+Codes</a>
 
 ———————————————————————————————————————————————
 
