@@ -129,8 +129,8 @@ Network.", 2026, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**
 
 ## 兴趣爱好      
 运动（芭蕾、滑雪）   
-音乐（乐理、钢琴、即兴伴奏、吉他、古筝）     
-文学（诗集）     
+音乐（声乐、钢琴、即兴伴奏、吉他、古筝）     
+文学（作诗）     
 
 [↑Top](#Top)
 
