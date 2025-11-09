@@ -127,10 +127,11 @@ Network.", 2026, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**
 日语N2能力认定书    
 韩语中级三级证书    
 
+<!--##
 ## 兴趣爱好      
 音乐（声乐、钢琴、即兴伴奏、吉他、古筝）     
 运动（芭蕾、滑雪）   
-文学（作诗）     
+文学（作诗）     -->
 
 [↑Top](#Top)
 
