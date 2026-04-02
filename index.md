@@ -3,7 +3,7 @@
 
 <p style="width:970px;">
     <img src="/caoyuan.jpg" align="right" width="180" hspace="5" vspace="5">
-    中国海洋大学信息科学与工程学部计算机科学与技术学院副教授，硕士生导师。主要研究方向：大规模单/跨模态检索。博士毕业于大连理工大学计算机应用技术专业，导师为<a href="http://faculty.tju.edu.cn/150001/zh_CN/index/31327/list/index.htm">李克秋</a>教授。曾于2017年9月-2018年9月赴美国罗格斯大学(Rutgers University)进行为期一年的博士联合培养，导师为Prof. Ping Li。获得人工智能高级工程师，计算机视觉高级工程师，区块链开发高级工程师证书。以第一作者或通讯作者在TIP、TIFS、TMM、TCSVT、TBD、AAAI、IJCAI、ICDE等国际高水平期刊和会议上发表论文30余篇。担任IJCV、TPAMI、TIP、TKDE、TMM、TCSVT、ICLR、ICML、KDD、NIPS、CVPR、MM、AAAI、IJCAI等顶刊顶会审稿人。主持国家自然科学基金青年基金、山东省自然科学基金面上基金、山东省自然科学基金青年基金、中国博士后科学基金面上资助、ISN开放基金等项目，参与多项国家重点研发计划项目、国家科技重大专项项目、国家自然科学基金面上项目。
+    中国海洋大学信息科学与工程学部计算机科学与技术学院副教授，硕士生导师。主要研究方向：大规模单/跨模态检索。博士毕业于大连理工大学计算机应用技术专业，导师为<a href="http://faculty.tju.edu.cn/150001/zh_CN/index/31327/list/index.htm">李克秋</a>教授。曾于2017年9月-2018年9月赴美国罗格斯大学(Rutgers University)进行为期一年的博士联合培养，导师为Prof. Ping Li。获得大模型应用高级工程师，人工智能高级工程师，计算机视觉高级工程师，区块链开发高级工程师证书。以第一作者或通讯作者在TIP、TIFS、TMM、TCSVT、TBD、AAAI、IJCAI、ICDE等国际高水平期刊和会议上发表论文30余篇。担任IJCV、TPAMI、TIP、TKDE、TMM、TCSVT、ICLR、ICML、KDD、NIPS、CVPR、MM、AAAI、IJCAI等顶刊顶会审稿人。主持国家自然科学基金青年基金、山东省自然科学基金面上基金、山东省自然科学基金青年基金、中国博士后科学基金面上资助、ISN开放基金等项目，参与多项国家重点研发计划项目、国家科技重大专项项目、国家自然科学基金面上项目。
 </p>
 中国海洋大学主页：<a href="https://it.ouc.edu.cn/cy2/main.htm">曹媛</a>     
 Google Scholar Profile: <a href="https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F5I2hnwaVmz-KcDmafPuf2e4L3EoZlqOtNosaEAJLlHzZsH6w3BO3ATGuSMJqDcwJ0ktSou5rsufyWu9mQSNLyl3yWctfpfrR5sBmMH0y0v5IKuvCw&user=2QD5NiEAAAAJ">Yuan Cao</a>     
@@ -50,7 +50,7 @@ Hashing Link: <a href="https://github.com/caoyuan618/Hashing">Papers+Codes</a>
 2022年12月指导硕士研究生刘峻玮获国家奖学金-->    
 
 ## 奖励荣誉
-2026年获2025-2026年度教师教学创新大赛一等奖
+2026年获2025-2026年度教师教学创新大赛一等奖           
 2024年获中国海洋大学2024年度课程教学优秀奖      
 2024年获山东省计算机视觉最佳学术论文奖      
 2024年获CCF青岛青年菁英学术交流荟学术新星二等奖      
@@ -90,11 +90,11 @@ Hashing Link: <a href="https://github.com/caoyuan618/Hashing">Papers+Codes</a>
 + Zifan Liu, **Yuan Cao***, Yifan Sun, Yanwei Yu*, Heng Qi. "Automatic Channel Pruning by Searching with Structure Embedding for Hash
 Network.", 2026, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**, 接收率=4167/23680=17.6%). <a href="https://github.com/caoyuan618/ACP-SSE">[Code] </a>        
 + Hui Zhang, Weikang Gao, Tao Yang, **Yuan Cao***. "Proxy Zero-Shot Hashing with Multimodal Fusion via Stable Diffusion.", 2026, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**, 接收率=4167/23680=17.6%). <a href="https://github.com/caoyuan618/PZSH">[Code] </a>
-+ **Yuan Cao**, Tao Yang, Zifan Liu, Fanlei Meng, Yanwei Yu, Jie Gui, Yuan~Yan~Tang. "Hedge Defense-Based Adversarial Robustness for Cross-Modal Deep Hashing Networks，", 2026, IEEE Transactions on Multimedia (**SCI一区TOP期刊**, IF: 6.513, **CCF-A**).               
++ **Yuan Cao**, Tao Yang, Zifan Liu, Fanlei Meng, Yanwei Yu, Jie Gui, Yuan~Yan~Tang. "Hedge Defense-Based Adversarial Robustness for Cross-Modal Deep Hashing Networks，", 2026, IEEE Transactions on Multimedia (**SCI一区TOP期刊**, IF: 6.513, **CCF-A**). <a href="https://github.com/caoyuan618/HD-CMDH">[Code] </a>                  
 + **Yuan Cao**, Yifan Sun, Xue Xu, Yanwei Yu, Jie Gui*, Yong Xie*, James Tin-Yau Kwok, Yuan Yan Tang. "Text-Guided Unsupervised Hashing with Community Exploration for Image Retrieval.", 2026, IEEE Transactions on Multimedia (**SCI一区TOP期刊**, IF: 6.513, **CCF-A**). <a href="https://ieeexplore.ieee.org/document/11433051">[PDF]<a href="https://github.com/caoyuan618/TGUH">[Code] </a>       
-+ Jiulong Jiao, Yizhi Zhou, Li Wu, Zhipeng Song, Xiangyu Kong, **Yuan Cao***, and Heng Qi*. "Text-Guided Unsupervised Hashing with Community Exploration for Image Retrieval.", 2026,  IEEE Transactions on Multimedia (**SCI一区TOP期刊**, IF: 6.513, **CCF-A**).        
++ Jiulong Jiao, Yizhi Zhou, Li Wu, Zhipeng Song, Xiangyu Kong, **Yuan Cao***, and Heng Qi*. "LightRA: Lightweight Residual Attention for Adaptation of Vision-Language Models.", 2026,  IEEE Transactions on Multimedia (**SCI一区TOP期刊**, IF: 6.513, **CCF-A**).        
 + **Yuan Cao**, Chenxu Wang, Zifan Liu, Lei Li, Bin Wang, Yanwei Yu*. "Trajectory Similarity Hash Learning with Spatio-Temporal GRU.", 2026, IEEE Transactions on Big Data (SCI二区，CCF-C). <a href="https://github.com/caoyuan618/Traj-ST">[Code] </a>            
-+ Zifan Liu, **Yuan Cao***, Xue Xu, Peng Luan, Yanwei Yu*. "Object-guided Multi-granularity Unsupervised Hashing for Image Retrieval.", 2026, Neural Networks (SCI二区，CCF-B). <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608026003084?DGCID=STMJ_220042_AUTH_SERV_PPUB&lid=jua9g5tkojjo&utm_campaign=STMJ_220042_AUTH_SERV_PPUB&utm_content=07bab9e4-c31e-408b-afa5-1c9ca0f269ca&utm_medium=email&utm_source=braze&utm_term=07bab9e4-c31e-408b-afa5-1c9ca0f269ca">[PDF] </a>            
++ Zifan Liu, **Yuan Cao***, Xue Xu, Peng Luan, Yanwei Yu*. "Object-guided Multi-granularity Unsupervised Hashing for Image Retrieval.", 2026, Neural Networks (SCI二区，CCF-B). <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608026003084?DGCID=STMJ_220042_AUTH_SERV_PPUB&lid=jua9g5tkojjo&utm_campaign=STMJ_220042_AUTH_SERV_PPUB&utm_content=07bab9e4-c31e-408b-afa5-1c9ca0f269ca&utm_medium=email&utm_source=braze&utm_term=07bab9e4-c31e-408b-afa5-1c9ca0f269ca">[PDF] </a> <a href="https://github.com/caoyuan618/OMUH">[Code] </a>            
 + **Yuan Cao**, Xiangru Chen, Zifan Liu, Wenzhe Jia, Fanlei Meng, Jie Gui*. "Deep Graph Online Hashing for Multi-label Image Retrieval.", 2025, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**, 接收率=3032/129618=23.4%). <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32191">[PDF]<a href="https://github.com/caoyuan618/DGOH">[Code] </a>        
 + Haozhi Fan, **Yuan Cao***. “Vision-guided Text Mining for Unsupervised Cross-modal Hashing with Community Similarity Quantization.”, 2025, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**, 接收率=3032/129618=23.4%). <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32290">[PDF]   <a href="https://github.com/caoyuan618/VTM-UCH">[Code] </a>      
 + **Yuan Cao**, Hui Zhang, Xinzheng Shang. "A Privacy-preserving Cross-modal Retrieval Scheme based on CLIP and Deep Hashing.", 2025, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP, **CCF-B**). <a href="https://ieeexplore.ieee.org/document/10890094">[PDF]
