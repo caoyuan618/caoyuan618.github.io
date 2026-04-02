@@ -50,6 +50,7 @@ Hashing Link: <a href="https://github.com/caoyuan618/Hashing">Papers+Codes</a>
 2022年12月指导硕士研究生刘峻玮获国家奖学金-->    
 
 ## 奖励荣誉
+2026年获2025-2026年度教师教学创新大赛一等奖
 2024年获中国海洋大学2024年度课程教学优秀奖      
 2024年获山东省计算机视觉最佳学术论文奖      
 2024年获CCF青岛青年菁英学术交流荟学术新星二等奖      
@@ -65,8 +66,9 @@ Hashing Link: <a href="https://github.com/caoyuan618/Hashing">Papers+Codes</a>
 2010-2012连续三年获国家奖学金   
 
 ## 科研项目
-[2025-2027] 山东省自然科学基金面上项目“基于哈希学习的大规模检索与攻击方法研究”，ZR2024MF128, 10万元，**主持者**。    
-[2023-2025] 国家自然科学基金青年基金“面向大规模跨模态检索的深度自监督哈希学习算法研究”，62202438，30万元，**主持者**。 <!-- <span style="color:red;">**New!**</span>-->   
+[2025-2028] 国家科技重大专项“AI辅助个体化营养治疗的代谢亚型识别及调节策略制定系统构建”，20252D01902804，277.5万元, **参与者**。        
+[2025-2027] 山东省自然科学基金面上项目“基于哈希学习的大规模检索与攻击方法研究”，ZR2024MF128, 10万元，**主持者**。       
+[2023-2025] 国家自然科学基金青年基金“面向大规模跨模态检索的深度自监督哈希学习算法研究”，62202438，30万元，**主持者**。            
 [2021-2023] 山东省自然科学基金青年基金“面向海量高维数据检索的分布式哈希学习算法研究”，ZR2020QF041，15万元，**主持者**。    
 [2021-2021] 中国博士后科学基金第69批面上资助“基于分布式哈希学习的大规模图像检索方法研究”，2021M693021，8万元，**主持者**。    
 [2021-2022] ISN第二十二批开放基金“基于分布式哈希学习算法的大规模数据检索方法研究”，ISN22-21，6万元，**主持者**。    
@@ -85,12 +87,15 @@ Hashing Link: <a href="https://github.com/caoyuan618/Hashing">Papers+Codes</a>
 
 ## 发表论文（<a href="https://dblp.uni-trier.de/pid/52/4472-5.html">DBLP</a>） 
 \* 通讯作者，\# 共同一作  
-+ ZifanLiu, **Yuan Cao***, Yifan Sun, Yanwei Yu*, Heng Qi. "Automatic Channel Pruning by Searching with Structure Embedding for Hash
++ Zifan Liu, **Yuan Cao***, Yifan Sun, Yanwei Yu*, Heng Qi. "Automatic Channel Pruning by Searching with Structure Embedding for Hash
 Network.", 2026, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**, 接收率=4167/23680=17.6%). <a href="https://github.com/caoyuan618/ACP-SSE">[Code] </a>        
 + Hui Zhang, Weikang Gao, Tao Yang, **Yuan Cao***. "Proxy Zero-Shot Hashing with Multimodal Fusion via Stable Diffusion.", 2026, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**, 接收率=4167/23680=17.6%). <a href="https://github.com/caoyuan618/PZSH">[Code] </a>
-+ **Yuan Cao**, Yifan Sun, Xue Xu, Yanwei Yu, Jie Gui*, Yong Xie*, James Tin-Yau Kwok, Yuan Yan Tang. "Text-Guided Unsupervised Hashing with Community Exploration for Image Retrieval.", 2026, IEEE Transactions on Multimedia (**SCI一区TOP期刊**, IF: 6.513, **CCF-B**). <a href="https://github.com/caoyuan618/TGUH">[Code] </a>
-+ Jiulong Jiao, Yizhi Zhou, Li Wu, Zhipeng Song, Xiangyu Kong, **Yuan Cao***, and Heng Qi*. "ext-Guided Unsupervised Hashing with Community Exploration for Image Retrieval.", 2026,  IEEE Transactions on Multimedia (**SCI一区TOP期刊**, IF: 6.513, **CCF-B**).
-+ **Yuan Cao**, Xiangru Chen, Zifan Liu, Wenzhe Jia, Fanlei Meng, Jie Gui*. "Deep Graph Online Hashing for Multi-label Image Retrieval.", 2025, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**, 接收率=3032/129618=23.4%). <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32191">[PDF]   <a href="https://github.com/caoyuan618/DGOH">[Code] </a>        
++ **Yuan Cao**, Tao Yang, Zifan Liu, Fanlei Meng, Yanwei Yu, Jie Gui, Yuan~Yan~Tang. "Hedge Defense-Based Adversarial Robustness for Cross-Modal Deep Hashing Networks，", 2026, IEEE Transactions on Multimedia (**SCI一区TOP期刊**, IF: 6.513, **CCF-A**).               
++ **Yuan Cao**, Yifan Sun, Xue Xu, Yanwei Yu, Jie Gui*, Yong Xie*, James Tin-Yau Kwok, Yuan Yan Tang. "Text-Guided Unsupervised Hashing with Community Exploration for Image Retrieval.", 2026, IEEE Transactions on Multimedia (**SCI一区TOP期刊**, IF: 6.513, **CCF-A**). <a href="https://ieeexplore.ieee.org/document/11433051">[PDF]<a href="https://github.com/caoyuan618/TGUH">[Code] </a>       
++ Jiulong Jiao, Yizhi Zhou, Li Wu, Zhipeng Song, Xiangyu Kong, **Yuan Cao***, and Heng Qi*. "Text-Guided Unsupervised Hashing with Community Exploration for Image Retrieval.", 2026,  IEEE Transactions on Multimedia (**SCI一区TOP期刊**, IF: 6.513, **CCF-A**).        
++ **Yuan Cao**, Chenxu Wang, Zifan Liu, Lei Li, Bin Wang, Yanwei Yu*. "Trajectory Similarity Hash Learning with Spatio-Temporal GRU.", 2026, IEEE Transactions on Big Data (SCI二区，CCF-C). <a href="https://github.com/caoyuan618/Traj-ST">[Code] </a>            
++ Zifan Liu, **Yuan Cao***, Xue Xu, Peng Luan, Yanwei Yu*. "Object-guided Multi-granularity Unsupervised Hashing for Image Retrieval.", 2026, Neural Networks (SCI二区，CCF-B). <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608026003084?DGCID=STMJ_220042_AUTH_SERV_PPUB&lid=jua9g5tkojjo&utm_campaign=STMJ_220042_AUTH_SERV_PPUB&utm_content=07bab9e4-c31e-408b-afa5-1c9ca0f269ca&utm_medium=email&utm_source=braze&utm_term=07bab9e4-c31e-408b-afa5-1c9ca0f269ca">[PDF] </a>            
++ **Yuan Cao**, Xiangru Chen, Zifan Liu, Wenzhe Jia, Fanlei Meng, Jie Gui*. "Deep Graph Online Hashing for Multi-label Image Retrieval.", 2025, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**, 接收率=3032/129618=23.4%). <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32191">[PDF]<a href="https://github.com/caoyuan618/DGOH">[Code] </a>        
 + Haozhi Fan, **Yuan Cao***. “Vision-guided Text Mining for Unsupervised Cross-modal Hashing with Community Similarity Quantization.”, 2025, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**, 接收率=3032/129618=23.4%). <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32290">[PDF]   <a href="https://github.com/caoyuan618/VTM-UCH">[Code] </a>      
 + **Yuan Cao**, Hui Zhang, Xinzheng Shang. "A Privacy-preserving Cross-modal Retrieval Scheme based on CLIP and Deep Hashing.", 2025, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP, **CCF-B**). <a href="https://ieeexplore.ieee.org/document/10890094">[PDF]
 + Weikang Gao, Zifan Liu, **Yuan Cao***, Zuojin Huang, Yaru Gao. "Transformer based Unsupervised Cross-modal Hashing for Normal and Remote Sensing Retrieval.", 2025, IEEE Signal Processing Letters ((SCI二区, IF: 3.109, CCF-C)). <a href="https://ieeexplore.ieee.org/document/11141368/authors#authors">[PDF]<a href="https://github.com/caoyuan618/TUCH">[Code] </a>      
@@ -102,8 +107,8 @@ Network.", 2026, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**
 + **Yuan Cao**, Junwei Liu, Heng Qi, Jie Gui*, Keqiu Li, Jieping Ye, Chao Liu. “Scalable Distributed Hashing for Approximate Nearest Neighbor Search.”, 2022, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF-A**). <a href="https://ieeexplore.ieee.org/document/9640585">[PDF] </a>   
 + Jie Gui#, **Yuan Cao***#, Heng Qi*, Keqiu Li, Jieping Ye, Chao Liu, Xiaowei Xu. “Fast kNN Search in Weighted Hamming Space with Multiple Tables.”, 2021, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, IF: 10.856, **CCF-A**). <a href="https://ieeexplore.ieee.org/document/9388919">[PDF] </a>
 + **Yuan Cao**, Sheng Chen, Jie Gui*, Heng Qi, Zhiyang Li, Chao Liu. “Hash Learning with Variable Quantization for Large-scale Retrieval.”, 2022, IEEE Transactions on Circuits and Systems for Video Technology (**SCI一区TOP期刊**，IF: 4.685, **CCF-B**). <a href="https://ieeexplore.ieee.org/document/9321491">[PDF] </a>     
-+ **Yuan Cao**, Heng Qi, Jie Gui*, Keqiu Li, Yuan Yan Tang, James Tin-Yau Kwok. “Learning to Hash with Dimension Analysis based Quantizer for Image Retrieval.”, 2020, IEEE Transactions on Multimedia (**SCI一区TOP期刊**, IF: 6.513, **CCF-B**). <a href="https://ieeexplore.ieee.org/document/9238437">[PDF] </a> <a href="https://github.com/caoyuan618/DAQ">[Code] </a>       
-+ Jie Gui, Xiaofeng Cong, **Yuan Cao***, Wenqi Ren, Jun Zhang, Jing Zhang, Dacheng Tao. “A Comprehensive Survey on Image Dehazing Based on Deep Learning.”, 2021, International Joint Conferences on Artificial Intelligence Organization (**IJCAI**, **CCF-A**, 接收率=53/166=31.9%). <a href="https://arxiv.org/pdf/2106.03323.pdf">[PDF] </a>      
++ **Yuan Cao**, Heng Qi, Jie Gui*, Keqiu Li, Yuan Yan Tang, James Tin-Yau Kwok. “Learning to Hash with Dimension Analysis based Quantizer for Image Retrieval.”, 2020, IEEE Transactions on Multimedia (**SCI一区TOP期刊**, IF: 6.513, **CCF-A**). <a href="https://ieeexplore.ieee.org/document/9238437">[PDF] </a> <a href="https://github.com/caoyuan618/DAQ">[Code] </a>       
++ Jie Gui, Xiaofeng Cong, **Yuan Cao***, Wenqi Ren, Jun Zhang, Jing Zhang, Dacheng Tao. “A Comprehensive Survey on Image Dehazing Based on Deep Learning.”, 2021, International Joint Conferences on Artificial Intelligence Organization (**IJCAI**, **CCF-B**, 接收率=53/166=31.9%). <a href="https://arxiv.org/pdf/2106.03323.pdf">[PDF] </a>      
 + **Yuan Cao**, Heng Qi*, Jien Kato, Keqiu Li. “Hash Ranking with Weighted Asymmetric Distance.”, 2017, IEEE Transactions on Computational Imaging (SCI二区, IF: 3.49). <a href="https://ieeexplore.ieee.org/document/8003435">[PDF] </a>     
 + **Yuan Cao**, Heng Qi, Jie Gui*, Shuai Li, Keqiu Li. “General Distributed Hash Learning on Image Descriptors for k-Nearest Neighbor Search.”, 2019, IEEE Signal Processing Letters (SCI二区, IF: 3.109, CCF-C). <a href="https://ieeexplore.ieee.org/document/8675499">[PDF] </a>      
 + **Yuan Cao**, Heng Qi*, Wenrui Zhou, Jien Kato, Keqiu Li, Xiulong Liu, Jie Gui. “Binary Hashing for Approximate Nearest Neighbor Search on Big Data: A Survey.”, 2018, IEEE Access (SCI三区, IF: 3.367, **cited by: 80**). <a href="https://ieeexplore.ieee.org/document/8170203">[PDF] </a>
