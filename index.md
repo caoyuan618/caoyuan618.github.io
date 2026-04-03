@@ -2,7 +2,7 @@
 # 曹媛 (<a href="https://caoyuan618.github.io/">Yuan Cao</a>)  
 
 <p style="width:970px;">
-    <img src="/CY.jpg" align="right" width="180" hspace="5" vspace="5">
+    <img src="/CY.png" align="right" width="180" hspace="5" vspace="5">
     中国海洋大学信息科学与工程学部计算机科学与技术学院副教授，硕士生导师。主要研究方向：大规模单/跨模态检索。博士毕业于大连理工大学计算机应用技术专业，导师为<a href="http://faculty.tju.edu.cn/150001/zh_CN/index/31327/list/index.htm">李克秋</a>教授。曾于2017年9月-2018年9月赴美国罗格斯大学(Rutgers University)进行为期一年的博士联合培养，导师为Prof. Ping Li。获得大模型应用高级工程师，人工智能高级工程师，计算机视觉高级工程师，区块链开发高级工程师证书。以第一作者或通讯作者在TIP、TIFS、TMM、TCSVT、TBD、AAAI、IJCAI、ICDE等国际高水平期刊和会议上发表论文30余篇。担任IJCV、TPAMI、TIP、TKDE、TMM、TCSVT、ICLR、ICML、KDD、NIPS、CVPR、MM、AAAI、IJCAI等顶刊顶会审稿人。主持国家自然科学基金青年基金、山东省自然科学基金面上基金、山东省自然科学基金青年基金、中国博士后科学基金面上资助、ISN开放基金等项目，参与多项国家重点研发计划项目、国家科技重大专项项目、国家自然科学基金面上项目。
 </p>
 中国海洋大学主页：<a href="https://it.ouc.edu.cn/cy2/main.htm">曹媛</a>     
