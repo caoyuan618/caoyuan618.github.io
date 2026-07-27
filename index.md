@@ -88,7 +88,7 @@ Hashing Link: <a href="https://github.com/caoyuan618/Hashing">Papers+Codes</a>
 
 ## 发表论文（<a href="https://dblp.uni-trier.de/pid/52/4472-5.html">DBLP</a>） 
 \* 通讯作者，\# 共同一作  
-+ **Yuan Cao**, Zifan Liu, Weikang Gao, Jie Gui, Yanwei Yu*. “Long-tailed Approaching Cross-modal Hashing with Multi-expert Collaborative Learning.”, 2026, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, **CCF-A**). <a href="https://github.com/caoyuan618/LACH">[Code] </a>     
++ **Yuan Cao**, Zifan Liu, Weikang Gao, Jie Gui, Yanwei Yu*. “Long-tailed Approaching Cross-modal Hashing with Multi-expert Collaborative Learning.”, 2026, IEEE Transactions on Image Processing (**SCI一区TOP期刊**, **CCF-A**). <a href="https://ieeexplore.ieee.org/document/11623424">[PDF] <a href="https://github.com/caoyuan618/LACH">[Code] </a>     
 + Zifan Liu, **Yuan Cao***, Yifan Sun, Yanwei Yu*, Heng Qi. "Automatic Channel Pruning by Searching with Structure Embedding for Hash
 Network.", 2026, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**, 接收率=4167/23680=17.6%). <a href="https://ojs.aaai.org/index.php/AAAI/article/view/39029">[PDF]<a href="https://github.com/caoyuan618/ACP-SSE">[Code] </a>        
 + Hui Zhang, Weikang Gao, Tao Yang, **Yuan Cao***. "Proxy Zero-Shot Hashing with Multimodal Fusion via Stable Diffusion.", 2026, AAAI Conference on Artificial Intelligence (**AAAI**, **CCF-A**, 接收率=4167/23680=17.6%). <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38247">[PDF]<a href="https://github.com/caoyuan618/PZSH">[Code] </a>        
