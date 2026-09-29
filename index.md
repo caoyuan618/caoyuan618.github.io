@@ -39,6 +39,7 @@ Hashing Link: <a href="https://github.com/caoyuan618/Hashing">Papers+Codes</a>
 
 ## 学术任职 
 综合业务网理论及关键技术国家重点实验室（ISN）客座研究人员   
+山东省计算机视觉大会（SDCV）论坛主席
 山东省人工智能学会（SDAI）理事   
 中国图象图形学学会（CSIG）机器视觉专委会委员   
 
